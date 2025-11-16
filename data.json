@@ -1,0 +1,618 @@
+{
+  "pwTexts": {
+    "title": {
+      "ru": "Пароль к архиву",
+      "en": "Archive password"
+    },
+    "note": {
+      "ru": "Используйте этот пароль при распаковке.",
+      "en": "Use this password when extracting the archive."
+    },
+    "copy": {
+      "ru": "Скопировать",
+      "en": "Copy"
+    },
+    "cont": {
+      "ru": "Скачать",
+      "en": "Download"
+    },
+    "close": {
+      "ru": "Закрыть",
+      "en": "Close"
+    }
+  },
+  "games": {
+    "cs2": [
+      {
+        "id": "cs2-1",
+        "image1": "/access/midnight.jpg",
+        "image2": "/access/midnight-2.jpg",
+        "image3": "/access/midnight-3.jpg",
+        "title": "MIDNIGHT CS2",
+        "description": {
+          "ru": "\n    <p>\n    Революционный Игровой Инструмент для Современных Геймеров\n    </p>\n    <p>\n    Откройте для себя MIDNIGHT CS2 – уникальное решение для тех, кто стремится к новым высотам в игровом мире. Наш продукт является результатом восьмилетней разработки, направленной на создание невероятно интуитивного и визуально привлекательного игрового инструмента.\n    </p>\n    <ul>\n      <li><strong>Особенности:</strong></li>\n      <li>Усовершенствованный Интерфейс: Насладитесь плавным и эстетически приятным пользовательским интерфейсом, разработанным для обеспечения лучшего игрового опыта.</li>\n      <li>Безопасность и Надёжность: Наш продукт обеспечивает высокую степень защиты и стабильности, благодаря чему вы можете играть с уверенностью.</li>\n      <li>Улучшение Вашего Игрового Опыта: MIDNIGHT CS2 предназначен для того, чтобы максимально расширить ваши возможности и потенциал в игре, обеспечивая новые горизонты достижений.</li>\n    </ul>\n    <ul>\n      <li><strong>Преимущества для Игроков:</strong></li>\n      <li>Получите преимущество благодаря уникальным функциям нашего продукта.</li>\n      <li>Используйте полный потенциал игры с нашими инновационными решениями.</li>\n      <li>Наша команда постоянно работает над улучшением и обновлением продукта, чтобы вы всегда оставались на шаг впереди.</li>\n    </ul>\n    ",
+          "en": "\n    <p>\n    A Revolutionary Gaming Toolkit for Modern Players\n    </p>\n    <p>\n    Meet MIDNIGHT CS2 — a unique solution for those aiming higher in competitive play. Built over eight years, it combines an intuitive UX with a striking visual design to enhance your in-game experience.\n    </p>\n    <ul>\n      <li><strong>Highlights:</strong></li>\n      <li>Refined Interface: smooth, polished UI crafted for a better play experience.</li>\n      <li>Safety & Stability: robust protection and reliability so you can play with confidence.</li>\n      <li>Quality of Life: unlock new ceilings for your performance with helpful utilities.</li>\n    </ul>\n    <ul>\n      <li><strong>Player Benefits:</strong></li>\n      <li>Gain an edge from a set of powerful features.</li>\n      <li>Make the most of your time with thoughtfully designed tools.</li>\n      <li>Active development with frequent improvements keeps you ahead.</li>\n    </ul>\n    "
+        },
+        "href": "#",
+        "downloadpath": "/access/game.zip",
+        "video": "https://www.youtube.com/watch?v=ljQQv0iDloY"
+      },
+      {
+        "id": "cs2-2",
+        "image1": "/access/sharkhack.png",
+        "image2": "/access/sharkhack-2.png",
+        "image3": "/access/sharkhack-3.png",
+        "title": "SharkHack",
+        "description": {
+          "ru": "\n    <p><strong>Популярные функции этого модуля</strong></p>\n    <ul>\n      <li><strong>Wallhack / ESP:</strong> подсветка противников за укрытиями.</li>\n      <li><strong>Aimbot:</strong> автонаведение прицела на цель.</li>\n      <li><strong>Triggerbot:</strong> автоматический выстрел при наведении.</li>\n      <li><strong>Skinchanger:</strong> подмена скинов и моделей.</li>\n      <li><strong>Bhop:</strong> помощник для распрыжки и авто-стрейфов.</li>\n      <li><strong>InventoryChanger:</strong> добавление скинов в инвентарь.</li>\n    </ul>\n    <p><strong>Как установить конфиги и LUA-скрипты?</strong></p>\n    <p>\n    Путь установки конфигов: <code>%HOMEDRIVE%\\SharkHack</code>.<br/>\n    Для импорта готовых конфигов и LUA-скриптов нажмите на кнопку-шестерёнку, расположенную рядом с кнопкой запуска модификации.\n    </p>\n    ",
+          "en": "\n    <p><strong>Popular features of this module</strong></p>\n    <ul>\n      <li><strong>Wallhack / ESP:</strong> highlights enemies behind cover.</li>\n      <li><strong>Aimbot:</strong> automatic aim assist on targets.</li>\n      <li><strong>Triggerbot:</strong> automatic shooting when aiming at a target.</li>\n      <li><strong>Skinchanger:</strong> replaces skins and models.</li>\n      <li><strong>Bhop:</strong> bunnyhop helper and auto-strafes.</li>\n      <li><strong>InventoryChanger:</strong> add skins to your inventory.</li>\n    </ul>\n    <p><strong>How to install configs and LUA scripts?</strong></p>\n    <p>\n    Config installation path: <code>%HOMEDRIVE%\\SharkHack</code>.<br/>\n    To import ready configs and LUA scripts, click the gear icon located next to the launch button of the mod.\n    </p>\n    "
+        },
+        "href": "#",
+        "downloadpath": "/access/game.zip"
+      }
+    ],
+    "roblox": [
+      {
+        "id": "roblox-1",
+        "image1": "/access/solara.jpg",
+        "image2": "/access/solara-2.jpg",
+        "image3": "/access/solara-3.jpg",
+        "title": "Roblox Solara",
+        "description": {
+          "ru": "\n    <p><strong>Solara — удобный набор инструментов для Roblox</strong></p>\n    <p>\n    Лёгкий стартовый комплект для тех, кто создаёт и играет: быстрый доступ к пресетам, управление скриптами и аккуратный интерфейс.\n    Подходит для частных/обучающих проектов. Мы не поощряем нечестную игру и рекомендуем соблюдать правила платформы.\n    </p>\n    <ul>\n      <li><strong>Script Manager:</strong> добавляйте/включайте/отключайте скрипты в один клик, профили для разных игр.</li>\n      <li><strong>Auto-Run (без навязчивости):</strong> список доверенных скриптов, которые запускаются только по вашему выбору.</li>\n      <li><strong>Preset Hub:</strong> пресеты управления, чувствительности и интерфейса; быстрый импорт/экспорт.</li>\n      <li><strong>Overlay & Logs:</strong> минималистичный оверлей состояния и журнал событий для отладки.</li>\n      <li><strong>Cloud Sync:</strong> синхронизация настроек между устройствами (по желанию).</li>\n    </ul>\n    <p>\n    <strong>Где уместно:</strong> частные серверы, обучение и персональные эксперименты. <br/>\n    <strong>Совместимость:</strong> Roblox Windows, актуальные клиенты; не конфликтует с большинством UI-пакетов.\n    </p>\n    ",
+          "en": "\n    <p><strong>Solara — a friendly toolbox for Roblox</strong></p>\n    <p>\n    A lightweight starter kit for creators and players: quick access to presets, script management, and a clean UX.\n    Best suited for private/educational use. We do not encourage unfair play — follow the platform rules.\n    </p>\n    <ul>\n      <li><strong>Script Manager:</strong> one-click add/enable/disable, profiles per game.</li>\n      <li><strong>Auto-Run (opt-in):</strong> trusted scripts that run only when you choose.</li>\n      <li><strong>Preset Hub:</strong> control/sensitivity/UI presets with fast import/export.</li>\n      <li><strong>Overlay & Logs:</strong> minimal status overlay and event log for debugging.</li>\n      <li><strong>Cloud Sync:</strong> optional settings sync across devices.</li>\n    </ul>\n    <p>\n    <strong>Use cases:</strong> private servers, learning, personal experiments. <br/>\n    <strong>Compatibility:</strong> Roblox for Windows; works with most UI packs.\n    </p>\n    "
+        },
+        "href": "#",
+        "video": "https://www.youtube.com/watch?v=lkNloepu254",
+        "downloadpath": "/access/game.zip"
+      },
+      {
+        "id": "roblox-2",
+        "image1": "/access/xeno.jpg",
+        "image2": "/access/xeno2.jpg",
+        "image3": "/access/xeno3.jpg",
+        "title": "Xeno Executor",
+        "description": {
+          "ru": "\n    <p><strong>Xeno Executor — удобный набор инструментов для Roblox</strong></p>\n    <p>\n    Лёгкий стартовый комплект для тех, кто создаёт и играет: быстрый доступ к пресетам, управление скриптами и аккуратный интерфейс. Подходит для частных/обучающих проектов. Мы не поощряем нечестную игру и рекомендуем соблюдать правила платформы.\n    </p>\n    <ul>\n      <li><strong>Script Manager:</strong> добавляйте/включайте/отключайте скрипты в один клик, профили для разных игр.</li>\n      <li><strong>Auto-Run (без навязчивости):</strong> список доверенных скриптов, которые запускаются только по вашему выбору.</li>\n      <li><strong>Preset Hub:</strong> пресеты управления, чувствительности и интерфейса; быстрый импорт/экспорт.</li>\n      <li><strong>Overlay & Logs:</strong> минималистичный оверлей состояния и журнал событий для отладки.</li>\n      <li><strong>Cloud Sync:</strong> синхронизация настроек между устройствами (по желанию).</li>\n    </ul>\n    <p>\n    <strong>Где уместно:</strong> частные серверы, обучение и персональные эксперименты.<br/>\n    <strong>Совместимость:</strong> Roblox Windows, актуальные клиенты; не конфликтует с большинством UI-пакетов.\n    </p>\n    ",
+          "en": "\n    <p><strong>Xeno Executor — a convenient toolbox for Roblox</strong></p>\n    <p>\n    A lightweight starter pack for creators and players: quick preset access, script management, and a tidy interface. Meant for private or educational projects. We do not endorse unfair play — always follow the platform rules.\n    </p>\n    <ul>\n      <li><strong>Script Manager:</strong> add/enable/disable scripts in one click, with profiles per game.</li>\n      <li><strong>Auto-Run (no nagging):</strong> a trusted list that runs scripts only when you choose.</li>\n      <li><strong>Preset Hub:</strong> control, sensitivity, and UI presets with fast import/export.</li>\n      <li><strong>Overlay & Logs:</strong> minimalist status overlay plus event log for debugging.</li>\n      <li><strong>Cloud Sync:</strong> optional settings sync across devices.</li>\n    </ul>\n    <p>\n    <strong>Where it fits:</strong> private servers, training, personal experiments.<br/>\n    <strong>Compatibility:</strong> Roblox on Windows; works alongside most UI packs.\n    </p>\n    "
+        },
+        "href": "#",
+        "downloadpath": "/access/game.zip"
+      }
+    ],
+    "genshin": [
+      {
+        "id": "genshin-1",
+        "image1": "/access/shika.jpg",
+        "image2": "/access/shika-2.webp",
+        "image3": "/access/shika-3.jpg",
+        "title": "Shika 6.1",
+        "description": {
+          "ru": "\n    <p><strong>Shika 6.1 — набор удобных инструментов для Genshin</strong></p>\n    <p>\n    Фокус на комфорте и экономии времени: аккуратные оверлеи, маршруты фарма и быстрые пресеты. Подходит для личных экспериментов и обучения — уважайте правила игры и сообщества.\n    </p>\n    <ul>\n      <li><strong>Route Planner:</strong> готовые и кастомные маршруты ресурсов, быстрая отметка собранного.</li>\n      <li><strong>Overlay HUD:</strong> минималистичные подсказки (таймеры, резины, резонансы) без перегруза экрана.</li>\n      <li><strong>Build Presets:</strong> шаблоны артов и оружия для персонажей, быстрый экспорт/импорт.</li>\n      <li><strong>QoL-утилиты:</strong> автоподсчёт смолы, заметки по ивентам, напоминания.</li>\n      <li><strong>Safe Mode:</strong> только визуальные и вспомогательные функции.</li>\n    </ul>\n    <p><strong>Совместимость:</strong> актуальные версии клиента Genshin на Windows. <br/>\n    <strong>Замечание:</strong> инструмент для персонального использования; соблюдайте правила и условия сервиса.</p>\n    ",
+          "en": "\n    <p><strong>Shika 6.1 — handy utilities for Genshin</strong></p>\n    <p>\n    Comfort and time-saving first: tidy overlays, farm routes, and quick presets. For personal experiments and learning — respect game rules and community norms.\n    </p>\n    <ul>\n      <li><strong>Route Planner:</strong> ready-made and custom resource paths with quick \"collected\" marks.</li>\n      <li><strong>Overlay HUD:</strong> minimal tips (timers, resins, resonances) without clutter.</li>\n      <li><strong>Build Presets:</strong> artifacts/weapon templates with fast import/export.</li>\n      <li><strong>QoL tools:</strong> resin auto-tracking, event notes, reminders.</li>\n      <li><strong>Safe Mode:</strong> visual and assistive features only.</li>\n    </ul>\n    <p><strong>Compatibility:</strong> current Windows client versions. <br/>\n    <strong>Note:</strong> personal use; follow the developer policies.</p>\n    "
+        },
+        "href": "#",
+        "video": "https://www.youtube.com/watch?v=fwIh4oIyvck",
+        "downloadpath": "/access/game.zip"
+      },
+      {
+        "id": "genshin-2",
+        "image1": "/access/unicore.png",
+        "image2": "/access/unicore-2.png",
+        "image3": "/access/unicore-3.png",
+        "title": "Unicore",
+        "description": {
+          "ru": "\n    <p><strong>Unicore — универсальный помощник для Genshin</strong></p>\n    <p>\n    Лёгкий центр управления с акцентом на пресеты, быстрое переключение билдов и маршруты фарма. Сделан, чтобы сократить рутину и навести порядок в настройках.\n    </p>\n    <ul>\n      <li><strong>Preset Hub:</strong> профили билдов на персонажей (арты/оружие/приоритет статов) и мгновенное переключение.</li>\n      <li><strong>Path & Farm:</strong> список точек сбора с фильтрами по регионам и типам ресурсов.</li>\n      <li><strong>Notes & Reminders:</strong> заметки по боссам, тайм-гейты и напоминания о смоле.</li>\n      <li><strong>Minimal UI:</strong> компактные панели, которые не мешают бою и исследованию.</li>\n      <li><strong>Safe Mode:</strong> визуальные и организационные функции без вмешательства в игровой процесс.</li>\n    </ul>\n    <p><strong>Совместимость:</strong> Genshin на Windows; совместим с большинством оверлей-решений. <br/>\n    <strong>Рекомендации:</strong> используйте ответственно и соблюдайте политику разработчиков.</p>\n    ",
+          "en": "\n    <p><strong>Unicore — an all-round helper for Genshin</strong></p>\n    <p>\n    A lightweight control center with presets, fast build switching, and farm routes. Built to reduce routine and keep settings tidy.\n    </p>\n    <ul>\n      <li><strong>Preset Hub:</strong> character build profiles (artifacts/weapon/stat priorities) with instant switching.</li>\n      <li><strong>Path & Farm:</strong> gather-point lists with filters by region/resource type.</li>\n      <li><strong>Notes & Reminders:</strong> boss notes, time gates, resin reminders.</li>\n      <li><strong>Minimal UI:</strong> compact panels that don’t get in the way.</li>\n      <li><strong>Safe Mode:</strong> visual/organizational features without gameplay interference.</li>\n    </ul>\n    <p><strong>Compatibility:</strong> Windows Genshin; works with most overlay tools. <br/>\n    <strong>Guidelines:</strong> use responsibly and follow developer policy.</p>\n    "
+        },
+        "href": "#",
+        "video": "https://www.youtube.com/watch?v=NuHujREKmlA",
+        "downloadpath": "/access/game.zip"
+      }
+    ],
+    "dota2": [
+      {
+        "id": "dota2-umbrella",
+        "image1": "/access/umbrella.jpg",
+        "image2": "/access/umbrella-2.jpg",
+        "image3": "/access/umbrella-3.jpg",
+        "title": "Umbrella",
+        "description": {
+          "ru": "\n<p><strong>Umbrella — мощный набор утилит для Dota 2</strong></p>\n<p>\nСфокусирован на безопасности, удобстве и эффективности. Гибкие пресеты, понятный интерфейс и регулярные обновления — всё, чтобы вы контролировали матч от пика до трона.\n</p>\n<h4>Ключевые возможности</h4>\n<ul>\n  <li><strong>Смена HWID:</strong> автоматическая ротация параметров при запуске для снижения риска банов.</li>\n  <li><strong>Скин‑ченджер:</strong> скины, ландшафты, эмблемы, Dota+ уровень — всё в вашем инвентаре.</li>\n  <li><strong>Аналитика игроков:</strong> винрейт, пулы героев, роли — мгновенная картина перед игрой.</li>\n  <li><strong>Отдаление камеры:</strong> комфортный обзор без визуального шума.</li>\n  <li><strong>Авто ласт‑хит:</strong> добивание/денаи крипов и бережный харасс по горячей клавише.</li>\n  <li><strong>Доджер:</strong> авто‑уклонение от скиллов, сейвы линкой и другие реакции по триггерам.</li>\n  <li><strong>Инфо‑оверлей:</strong> способности/кд, предметы, мана, дебаффы, видимость врагами и многое другое.</li>\n  <li><strong>Авто‑комбо:</strong> оптимальная последовательность скиллов и предметов в один клик.</li>\n</ul>\n<p>\n<strong>Итог:</strong> более 500 скриптов и инструментов — концентрат качества для тех, кто хочет максимума в каждой игре.\n</p>\n",
+          "en": "\n<p><strong>Umbrella — a powerful utilities suite for Dota 2</strong></p>\n<p>\nBuilt around safety, comfort and efficiency. Flexible presets, clean UI and frequent updates — so you control the match from draft to throne.\n</p>\n<h4>Highlights</h4>\n<ul>\n  <li><strong>HWID rotation:</strong> automatic parameter changes on launch to reduce ban risks.</li>\n  <li><strong>Skin changer:</strong> skins, terrains, emblems, Dota+ level — right in your inventory.</li>\n  <li><strong>Player analytics:</strong> winrates, hero pools, roles — instant pre‑game context.</li>\n  <li><strong>Camera distance:</strong> comfortable overview without clutter.</li>\n  <li><strong>Auto last‑hit:</strong> last‑hits/denies and gentle harass on a hotkey.</li>\n  <li><strong>Dodger:</strong> auto‑evade skills, blink reactions, Linken saves and more.</li>\n  <li><strong>Info overlay:</strong> abilities/cooldowns, items, mana, debuffs, enemy vision and more.</li>\n  <li><strong>Auto‑combo:</strong> optimal sequence of skills/items in a single press.</li>\n</ul>\n<p>\n<strong>Bottom line:</strong> 500+ scripts and tools — a concentrated upgrade for every game.\n</p>\n"
+        },
+        "href": "#",
+        "downloadpath": "/access/game.zip"
+      }
+    ],
+    "minecraft": [
+      {
+        "id": "mc-nursultan",
+        "image1": "/access/nursultan.jpg",
+        "image2": "/access/nursultan-2.jpg",
+        "image3": "/access/nursultan-3.jpg",
+        "title": "Nursultan Client",
+        "description": {
+          "ru": "\n<p><strong>Nursultan — приватный клиент для Minecraft с акцентом на стиль и контроль</strong></p>\n<p>\nПревращает рутину в удовольствие: плавный интерфейс, гибкая настройка и стабильность даже на слабых ПК. Подойдёт тем, кто хочет быстро прокачать скилл и уверенно доминировать на серверах.\n</p>\n<h4>Почему это удобно</h4>\n<ul>\n  <li><strong>Красивый внешний вид:</strong> аккуратные темы и настраиваемые элементы интерфейса.</li>\n  <li><strong>Гибкая настройка:</strong> почти каждая функция меняется под ваш стиль; поддержка готовых конфигов.</li>\n  <li><strong>Оптимизация:</strong> улучшения клиента и игры для высокой стабильности на любых конфигурациях.</li>\n  <li><strong>Частые обновления:</strong> новые функции и апдейты под актуальные сервера — без откатов.</li>\n  <li><strong>Поддержка:</strong> команда помогает быстро и по делу, от настройки до тонкой оптимизации.</li>\n</ul>\n<p>\n<strong>Результат:</strong> красивый, быстрый и надёжный клиент, с которым вы всегда на шаг впереди.\n</p>\n",
+          "en": "\n<p><strong>Nursultan — a private Minecraft client focused on style and control</strong></p>\n<p>\nTurns routine into joy: smooth UI, deep customization and stability even on low‑end PCs. Ideal for players who want to level up fast and dominate servers with confidence.\n</p>\n<h4>Why it feels great</h4>\n<ul>\n  <li><strong>Polished look:</strong> neat themes and customizable UI elements.</li>\n  <li><strong>Tuning:</strong> adjust nearly every feature; import community configs.</li>\n  <li><strong>Optimization:</strong> client and game tweaks for stable fps on all setups.</li>\n  <li><strong>Frequent updates:</strong> new features and timely patches for popular servers.</li>\n  <li><strong>Support:</strong> responsive team — from setup to fine‑tuning.</li>\n</ul>\n<p>\n<strong>Bottom line:</strong> a sleek, fast and reliable client that keeps you a step ahead.\n</p>\n"
+        },
+        "href": "#",
+        "downloadpath": "/access/game.zip"
+      }
+    ],
+    "zzz": [
+      {
+        "id": "zzz-1",
+        "image1": "/access/zzz.png",
+        "image2": "/access/zzz-2.png",
+        "image3": "/access/zzz-3.png",
+        "title": "Unicore Z",
+        "description": {
+          "ru": "\n<p><strong>Unicore Z — помощник для Zenless Zone Zero</strong></p>\n<p>\nЛёгкий центр управления с пресетами, заметками по встречам и маршрутам забегов. Сделан, чтобы уменьшить рутину и держать настройки в порядке.\n</p>\n<ul>\n  <li><strong>Preset Hub:</strong> профили билдов (агенты/диски/умения) с мгновенным переключением.</li>\n  <li><strong>City Runs:</strong> списки активностей и «маршруты забегов» с фильтрами по районам.</li>\n  <li><strong>Notes & Timers:</strong> заметки по боссам/ивентам и напоминания таймеров.</li>\n  <li><strong>Minimal UI:</strong> компактные панели, не мешающие боям и исследованию.</li>\n  <li><strong>Safe Mode:</strong> только визуальные и организационные функции без вмешательства в геймплей.</li>\n</ul>\n<p><strong>Совместимость:</strong> Windows‑клиент ZZZ; дружественен к большинству оверлеев. <br/>\n<strong>Рекомендации:</strong> используйте ответственно и соблюдайте политику разработчиков.</p>\n",
+          "en": "\n<p><strong>Unicore Z — helper for Zenless Zone Zero</strong></p>\n<p>\nA lightweight control center with presets, encounter notes and run routes. Built to cut routine and keep settings tidy.\n</p>\n<ul>\n  <li><strong>Preset Hub:</strong> loadout profiles (agents/discs/skills) with instant switching.</li>\n  <li><strong>City Runs:</strong> activity checklists and “run routes” with district filters.</li>\n  <li><strong>Notes & Timers:</strong> boss/event notes and reminder timers.</li>\n  <li><strong>Minimal UI:</strong> compact panels that stay out of the way.</li>\n  <li><strong>Safe Mode:</strong> visual/organizational features only; no gameplay interference.</li>\n</ul>\n<p><strong>Compatibility:</strong> ZZZ on Windows; works well with common overlays. <br/>\n<strong>Guidelines:</strong> use responsibly and follow developer policy.</p>\n"
+        },
+        "href": "#",
+        "downloadpath": "/access/game.zip"
+      },
+      {
+        "id": "rust-2",
+        "image1": "/access/matrix.jpg",
+        "image2": "/access/matrix2.jpg",
+        "image3": "/access/matrix3.jpg",
+        "title": "Matrix Internal",
+        "description": {
+          "ru": "\n    <p><strong>Matrix Internal — Rust, функции и пресеты</strong></p>\n    <p>Встроенный набор для расширенного контроля: секции Aimbot, Exploits, Visuals, Movement & Survival, Automation, Utility & Safety.</p>\n    \n    <h4>Aimbot</h4>\n    <ul>\n      <li>Classic / pSilent режимы, сглаживание, автоприцел, выбор кости, HitChance.</li>\n    </ul>\n    \n    <h4>Exploits</h4>\n    <ul>\n      <li>Моды пуль, снятие отдачи, быстрый лук, desync-приёмы.</li>\n    </ul>\n    \n    <h4>Visuals</h4>\n    <ul>\n      <li>ESP (игроки, ресурсы, ящики), Chams, минимальная HUD-информация.</li>\n    </ul>\n    \n    <h4>Movement & Survival</h4>\n    <ul>\n      <li>Fly/Noclip, Omni Sprint, защита от урона при падениях.</li>\n    </ul>\n    \n    <h4>Automation</h4>\n    <ul>\n      <li>Автофарм, авто-рыбалка, авто-крафт, менеджер код-замков.</li>\n    </ul>\n    \n    <h4>Utility & Safety</h4>\n    <ul>\n      <li>InstantLoot, Dayhack, профили (Legit/Farm/Rage), Anti-Violation.</li>\n    </ul>\n    \n    <p><strong>Где уместно:</strong> приватные сервера, обучение, персональные эксперименты. Используйте ответственно.</p>\n    ",
+          "en": "\n    <p><strong>Matrix Internal — Rust utilities and presets</strong></p>\n    <p>An internal toolkit arranged by focus areas: Aimbot, Exploits, Visuals, Movement & Survival, Automation, Utility & Safety.</p>\n    \n    <h4>Aimbot</h4>\n    <ul>\n      <li>Classic / pSilent modes with smoothing, auto-aim, bone selection, HitChance control.</li>\n    </ul>\n    \n    <h4>Exploits</h4>\n    <ul>\n      <li>Bullet mods, no-recoil, fast bow, and desync techniques.</li>\n    </ul>\n    \n    <h4>Visuals</h4>\n    <ul>\n      <li>ESP for players/resources/crates, Chams, compact HUD info.</li>\n    </ul>\n    \n    <h4>Movement & Survival</h4>\n    <ul>\n      <li>Fly/Noclip, Omni Sprint, and fall-damage immunity.</li>\n    </ul>\n    \n    <h4>Automation</h4>\n    <ul>\n      <li>Auto-farm, auto-fishing, auto-crafting, code-lock manager.</li>\n    </ul>\n    \n    <h4>Utility & Safety</h4>\n    <ul>\n      <li>InstantLoot, Dayhack, profile sets (Legit/Farm/Rage), Anti-Violation tools.</li>\n    </ul>\n    \n    <p><strong>Best used on:</strong> private servers, training, personal experimentation — stay responsible.</p>\n    "
+        },
+        "href": "#",
+        "downloadpath": "/access/game.zip"
+      }
+    ],
+    "fortnite": [
+      {
+        "id": "fortnite-1",
+        "image1": "/access/memez.jpg",
+        "image2": "/access/memez-2.jpg",
+        "image3": "/access/memez-3.jpg",
+        "title": "Memez",
+        "description": {
+          "ru": "\n    <p><strong>Memez — мод-пак для Fortnite</strong></p>\n    <p>Оформлено по разделам, как в GUI: Combat (aimbot), Visuals, Movement, Utility, Safety. Коротко — только нужное.</p>\n    \n    <h4>Combat</h4>\n    <ul>\n      <li><strong>Aimbot:</strong> включение/выключение, работа по видимой цели (Visible Check).</li>\n      <li><strong>FOV & Smooth:</strong> регулируемый радиус наведения и плавность движения прицела.</li>\n      <li><strong>Dynamic FOV:</strong> автоподстройка FOV под дистанцию.</li>\n      <li><strong>Ignore Knocked:</strong> игнорировать нокнутых, фокус на активных целях.</li>\n      <li><strong>Per-Weapon:</strong> отдельные профили (Sniper/SMG/Shotgun/AR) и хоткей для триггера.</li>\n    </ul>\n    \n    <h4>Visuals</h4>\n    <ul>\n      <li><strong>ESP (минимальный):</strong> здоровье/дистанция/направление — без визуального шума.</li>\n      <li><strong>Glow/Chams:</strong> аккуратная подсветка противников и важных объектов.</li>\n    </ul>\n    \n    <h4>Movement</h4>\n    <ul>\n      <li><strong>Speed/Bhop (бережно):</strong> умеренное ускорение и авто-прыжок по хоткею.</li>\n      <li><strong>Safe Landing:</strong> смягчение падений при ротациях.</li>\n    </ul>\n    \n    <h4>Utility</h4>\n    <ul>\n      <li><strong>Bind Hub:</strong> быстрые клавиши для включения режимов и смены профилей.</li>\n      <li><strong>Radar:</strong> компактный радар с подсказками угроз (по желанию).</li>\n    </ul>\n    \n    <h4>Safety</h4>\n    <ul>\n      <li><strong>Профили:</strong> отдельные конфиги под тренировки/игру; быстрое переключение.</li>\n      <li><strong>Режим совместимости:</strong> рекомендуется для частных/кастомных сессий; используйте ответственно.</li>\n    </ul>\n    ",
+          "en": "\n    <p><strong>Memez — mod pack for Fortnite</strong></p>\n    <p>Organized like the GUI sections: Combat (aimbot), Visuals, Movement, Utility, Safety. Short — only what matters.</p>\n    \n    <h4>Combat</h4>\n    <ul>\n      <li><strong>Aimbot:</strong> on/off, works on visible targets (Visible Check).</li>\n      <li><strong>FOV & Smooth:</strong> adjustable aim radius and smoothing.</li>\n      <li><strong>Dynamic FOV:</strong> auto-adjusts FOV to distance.</li>\n      <li><strong>Ignore Knocked:</strong> skip downed targets, focus actives.</li>\n      <li><strong>Per-Weapon:</strong> separate profiles (Sniper/SMG/Shotgun/AR) and trigger hotkey.</li>\n    </ul>\n    \n    <h4>Visuals</h4>\n    <ul>\n      <li><strong>ESP (minimal):</strong> health/distance/direction — no visual clutter.</li>\n      <li><strong>Glow/Chams:</strong> clean highlights for enemies and key objects.</li>\n    </ul>\n    \n    <h4>Movement</h4>\n    <ul>\n      <li><strong>Speed/Bhop (gentle):</strong> modest speed boost and auto-hop by hotkey.</li>\n      <li><strong>Safe Landing:</strong> softer falls during rotations.</li>\n    </ul>\n    \n    <h4>Utility</h4>\n    <ul>\n      <li><strong>Bind Hub:</strong> quick keys to toggle modes and switch profiles.</li>\n      <li><strong>Radar:</strong> compact radar with threat hints (optional).</li>\n    </ul>\n    \n    <h4>Safety</h4>\n    <ul>\n      <li><strong>Profiles:</strong> separate configs for practice/play; fast switching.</li>\n      <li><strong>Compatibility Mode:</strong> recommended for private/custom sessions; use responsibly.</li>\n    </ul>\n    "
+        },
+        "href": "#",
+        "downloadpath": "/access/game.zip"
+      }
+    ],
+    "rust": [
+      {
+        "id": "rust-1",
+        "image1": "/access/fluent.jpg",
+        "image2": "/access/fluent-2.jpg",
+        "image3": "/access/fluent-3.jpg",
+        "title": "One Top Cheats",
+        "description": {
+          "ru": "\n    <p><strong>Rust — утилиты и пресеты</strong></p>\n    <p>Разделение по задачам: Aimbot, Visuals, Movement & Survival, Utility, Safety.</p>\n    \n    <h4>Aimbot</h4>\n    <ul>\n      <li><strong>Legit Aim:</strong> мягкая помощь при наведении с ограниченным FOV и скоростью.</li>\n      <li><strong>Recoil Patterns:</strong> коррекция отдачи под популярные сборки оружия.</li>\n    </ul>\n    \n    <h4>Visuals</h4>\n    <ul>\n      <li><strong>ESP:</strong> игроки, животные, ящики/ресурсы; фильтры и дистанции.</li>\n      <li><strong>Ore/Crate ESP:</strong> подсветка руды и лута для фарма.</li>\n    </ul>\n    \n    <h4>Movement & Survival</h4>\n    <ul>\n      <li><strong>Speed/Bhop (бережно):</strong> умеренное ускорение и авто-прыжок.</li>\n      <li><strong>Safe Landing:</strong> снижение урона от падения, контроль стамины.</li>\n    </ul>\n    \n    <h4>Utility</h4>\n    <ul>\n      <li><strong>Map & Markers:</strong> метки дом/рейд-точки, маршруты фарма.</li>\n      <li><strong>Craft/Inventory Helper:</strong> быстрые очереди крафта, авто-сортировка инвентаря.</li>\n    </ul>\n    \n    <h4>Safety</h4>\n    <ul>\n      <li><strong>Профили:</strong> конфиги под фарм/ПвП/рейд; переключение в один клик.</li>\n      <li><strong>Режим совместимости:</strong> рекомендуется для локальных/тестовых серверов.</li>\n    </ul>\n    ",
+          "en": "\n    <p><strong>Rust — utilities and presets</strong></p>\n    <p>Organized by purpose: Aimbot, Visuals, Movement & Survival, Utility, Safety.</p>\n    \n    <h4>Aimbot</h4>\n    <ul>\n      <li><strong>Legit Aim:</strong> gentle aim assist with limited FOV and speed caps.</li>\n      <li><strong>Recoil Patterns:</strong> recoil correction tuned for popular weapon builds.</li>\n    </ul>\n    \n    <h4>Visuals</h4>\n    <ul>\n      <li><strong>ESP:</strong> players, animals, crates/resources; filters and distances.</li>\n      <li><strong>Ore/Crate ESP:</strong> highlights ore and loot for farming routes.</li>\n    </ul>\n    \n    <h4>Movement & Survival</h4>\n    <ul>\n      <li><strong>Speed/Bhop (careful):</strong> modest speed boost and auto-jump.</li>\n      <li><strong>Safe Landing:</strong> reduced fall damage and stamina control.</li>\n    </ul>\n    \n    <h4>Utility</h4>\n    <ul>\n      <li><strong>Map & Markers:</strong> home/raid pins and farm paths.</li>\n      <li><strong>Craft/Inventory Helper:</strong> quick craft queues and auto-sorting.</li>\n    </ul>\n    \n    <h4>Safety</h4>\n    <ul>\n      <li><strong>Profiles:</strong> configs for farm/PvP/raid; one-click switching.</li>\n      <li><strong>Compatibility Mode:</strong> recommended for local/test servers.</li>\n    </ul>\n    "
+        },
+        "href": "#",
+        "downloadpath": "/access/game.zip"
+      }
+    ],
+    "valorant": [
+      {
+        "id": "valorant-1",
+        "image1": "/access/memezfull.jpg",
+        "image2": "/access/memezfull-2.jpg",
+        "image3": "/access/memezfull-3.jpg",
+        "title": "Memez Full",
+        "description": {
+          "ru": "\n    <p><strong>Valorant — компактный набор утилит</strong></p>\n    <p>Структура по разделам: Aimbot (легит-ассист для тренировки), Visuals, Utility, Practice & Settings, Safety.</p>\n    \n    <h4>Aimbot</h4>\n    <ul>\n      <li><strong>Legit Assist:</strong> мягкая помощь при наведении с ограниченным FOV и сглаживанием.</li>\n      <li><strong>Recoil Control:</strong> лёгкая стабилизация очередей под выбранную сенсу.</li>\n    </ul>\n    \n    <h4>Visuals</h4>\n    <ul>\n      <li><strong>ESP (минимальный):</strong> здоровье/дистанция/направление — без перегруза экрана.</li>\n      <li><strong>Glow/Chams:</strong> аккуратная подсветка противников для лучшей читаемости.</li>\n    </ul>\n    \n    <h4>Utility</h4>\n    <ul>\n      <li><strong>Bind Hub:</strong> быстрые клавиши на профили оружия и сценарии тренировки.</li>\n      <li><strong>Radar:</strong> компактный радар с подсказками позиций (по желанию).</li>\n    </ul>\n    \n    <h4>Practice & Settings</h4>\n    <ul>\n      <li><strong>Aim Routines:</strong> пресеты для тренажёров и кастомных карт, таймеры и серии.</li>\n      <li><strong>Sensitivity Presets:</strong> сохранение/сравнение сенсы, eDPI и угловой скорости.</li>\n    </ul>\n    \n    <h4>Safety</h4>\n    <ul>\n      <li><strong>Профили:</strong> раздельные конфиги для тренировки и игры; быстрое переключение.</li>\n      <li><strong>Ответственное использование:</strong> ориентировано на частные/кастомные сессии.</li>\n    </ul>\n    ",
+          "en": "\n    <p><strong>Valorant — a compact utilities set</strong></p>\n    <p>Sections: Aimbot (legit assist for practice), Visuals, Utility, Practice & Settings, Safety.</p>\n    \n    <h4>Aimbot</h4>\n    <ul>\n      <li><strong>Legit Assist:</strong> gentle aim aid with limited FOV and smoothing.</li>\n      <li><strong>Recoil Control:</strong> light stabilization of bursts tuned to your sensitivity.</li>\n    </ul>\n    \n    <h4>Visuals</h4>\n    <ul>\n      <li><strong>ESP (minimal):</strong> health/distance/direction — no screen clutter.</li>\n      <li><strong>Glow/Chams:</strong> clean highlighting of opponents for better readability.</li>\n    </ul>\n    \n    <h4>Utility</h4>\n    <ul>\n      <li><strong>Bind Hub:</strong> quick keys for weapon profiles and practice scenarios.</li>\n      <li><strong>Radar:</strong> compact radar with position hints (optional).</li>\n    </ul>\n    \n    <h4>Practice & Settings</h4>\n    <ul>\n      <li><strong>Aim Routines:</strong> presets for ranges and custom maps, timers and series.</li>\n      <li><strong>Sensitivity Presets:</strong> save/compare sens, eDPI and angular speed.</li>\n    </ul>\n    \n    <h4>Safety</h4>\n    <ul>\n      <li><strong>Profiles:</strong> separate configs for practice vs. play; fast switching.</li>\n      <li><strong>Responsible use:</strong> intended for private/custom sessions.</li>\n    </ul>\n    "
+        },
+        "href": "#",
+        "downloadpath": "/access/game.zip"
+      }
+    ],
+    "gta5": [
+      {
+        "id": "gta5-unicore",
+        "image1": "/access/unicore-gta.png",
+        "image2": "/access/unicore-gta-2.png",
+        "image3": "/access/unicore-gta-3.png",
+        "title": "UNICORE GTA 5",
+        "description": {
+          "ru": "\n<p><strong>UNICORE — единый приватный инструмент для GTA 5 (RageMP + GTA Online)</strong></p>\n<p>\nОдин лаунчер — два мира. Универсальный набор функций для весёлого фри-плея в GTA Online и абсолютного контроля на серверах RageMP.\n</p>\n<ul>\n  <li><strong>Двойной режим:</strong> профили под GTA Online и RageMP — переключение в один клик.</li>\n  <li><strong>Экономика и прогресс:</strong> гибкие инструменты для фарма, телепорта и управления транспортом.</li>\n  <li><strong>Защита и комфорт:</strong> анти-грифер опции, безопасные значения по умолчанию, горячие профили.</li>\n  <li><strong>Карта и перемещения:</strong> метки, быстрые ротации по городу, точные телепорты по координатам.</li>\n</ul>\n<p>\n<strong>Итог:</strong> один надёжный центр управления для тех, кто хочет максимум свободы и удобства в GTA 5.\n</p>\n",
+          "en": "\n<p><strong>UNICORE — unified private toolkit for GTA 5 (RageMP + GTA Online)</strong></p>\n<p>\nOne launcher — two worlds. A versatile feature set for carefree fun in GTA Online and full control on RageMP servers.\n</p>\n<ul>\n  <li><strong>Dual mode:</strong> separate profiles for GTA Online and RageMP — switch with one click.</li>\n  <li><strong>Economy & progress:</strong> flexible tools for farming, teleportation, and vehicle control.</li>\n  <li><strong>Comfort & safety:</strong> anti-griefer options, safe defaults, hot profile switching.</li>\n  <li><strong>Map & movement:</strong> pins, quick city rotations, precise coordinate teleports.</li>\n</ul>\n<p>\n<strong>In short:</strong> a reliable control center for players who want maximum freedom and convenience in GTA 5.\n</p>\n"
+        },
+        "href": "#",
+        "downloadpath": "/access/game.zip"
+      },
+      {
+        "id": "gta5-vanish",
+        "image1": "/access/vanish.png",
+        "image2": "/access/vanish-2.png",
+        "image3": "/access/vanish-3.png",
+        "title": "Vanish (RageMP)",
+        "description": {
+          "ru": "\n<p><strong>Vanish — актуальный и надёжный выбор для RageMP</strong></p>\n<p>\nСоздан для стабильной игры и уверенного преимущества: аккуратный интерфейс, гибкие настройки и современный набор функций.\n</p>\n<ul>\n  <li><strong>Aimbot:</strong> плавное и точное наведение с разумными ограничениями.</li>\n  <li><strong>ESP / Wallhack:</strong> чистая визуализация противников и ключевых объектов.</li>\n  <li><strong>Профили:</strong> отдельные пресеты для «легит» и «фан»‑режимов, переключение на лету.</li>\n  <li><strong>Стабильность:</strong> акцент на надёжность и предсказуемое поведение в сессиях.</li>\n</ul>\n<p>\n<strong>Для кого:</strong> тем, кто хочет комфортный RageMP с современными возможностями и без лишнего шума.\n</p>\n",
+          "en": "\n<p><strong>Vanish — a dependable, up‑to‑date choice for RageMP</strong></p>\n<p>\nBuilt for stable play and confident advantage: clean UI, flexible tuning, and a modern feature set.\n</p>\n<ul>\n  <li><strong>Aimbot:</strong> smooth, precise aiming with sensible limits.</li>\n  <li><strong>ESP / Wallhack:</strong> clean visualization of enemies and key objects.</li>\n  <li><strong>Profiles:</strong> separate presets for legit vs. fun modes, switch on the fly.</li>\n  <li><strong>Stability:</strong> focus on reliability and predictable behavior in sessions.</li>\n</ul>\n<p>\n<strong>Best for:</strong> players who want a comfortable RageMP with modern capabilities and no clutter.\n</p>\n"
+        },
+        "href": "#",
+        "downloadpath": "/access/game.zip"
+      }
+    ],
+    "pubg": [
+      {
+        "id": "pubg-1",
+        "image1": "/access/pubgmemez.jpg",
+        "image2": "/access/pubgmemez-2.jpg",
+        "image3": "/access/pubgmemez-3.jpg",
+        "title": "Pubg Memez",
+        "description": {
+          "ru": "\n    <p><strong>PUBG — компактный мод-набор</strong></p>\n    <p>Разделено по назначению: Aimbot, Visuals, Movement, Loot & Utility, Safety. Коротко и по делу.</p>\n    \n    <h4>Aimbot</h4>\n    <ul>\n      <li><strong>Legit Aim Assist:</strong> мягкая помощь при наведении с настраиваемым FOV и скоростью наведения.</li>\n      <li><strong>Trigger:</strong> аккуратный авто-выстрел при наведении курсора на цель (по клавише).</li>\n      <li><strong>Recoil Control:</strong> сглаживание отдачи и стабилизация прицела для очередей.</li>\n    </ul>\n    \n    <h4>Visuals</h4>\n    <ul>\n      <li><strong>ESP:</strong> боксы/скелет/дистанция, индикаторы здоровья и направления взгляда противников.</li>\n      <li><strong>Loot ESP:</strong> подсветка редких предметов/обвесов; фильтры по типам.</li>\n      <li><strong>Radar/Minimap:</strong> компактный радар с подсказками угроз поблизости.</li>\n    </ul>\n    \n    <h4>Movement</h4>\n    <ul>\n      <li><strong>Speed Mod (бережный):</strong> умеренное ускорение бега/перемещений.</li>\n      <li><strong>Fly / Air-move:</strong> точный контроль в воздухе для быстрых ротаций (по горячей клавише).</li>\n      <li><strong>Safe Landing:</strong> защита от урона при падении с большой высоты.</li>\n    </ul>\n    \n    <h4>Loot & Utility</h4>\n    <ul>\n      <li><strong>Auto-Loot (настраиваемый):</strong> приоритетное поднятие редких предметов и патронов по списку.</li>\n      <li><strong>Quick-Use:</strong> быстрые бинды на лечение/бусты, переключение пресетов прицелов.</li>\n      <li><strong>Inventory Helper:</strong> сортировка лута, быстрый дроп ненужного.</li>\n    </ul>\n    \n    <h4>Safety</h4>\n    <ul>\n      <li><strong>Профили:</strong> отдельные конфиги под «легит»/тренировку; переключение в один клик.</li>\n      <li><strong>Совместимость:</strong> ориентировано на локальные/тестовые сессии; используйте ответственно.</li>\n    </ul>\n    ",
+          "en": "\n    <p><strong>PUBG — compact mod pack</strong></p>\n    <p>Organized by purpose: Aimbot, Visuals, Movement, Loot & Utility, Safety. Short and to the point.</p>\n    \n    <h4>Aimbot</h4>\n    <ul>\n      <li><strong>Legit Aim Assist:</strong> gentle aim help with configurable FOV and aim speed.</li>\n      <li><strong>Trigger:</strong> precise auto-shot when the crosshair is on target (hotkey).</li>\n      <li><strong>Recoil Control:</strong> recoil smoothing and sight stabilization for bursts.</li>\n    </ul>\n    \n    <h4>Visuals</h4>\n    <ul>\n      <li><strong>ESP:</strong> boxes/skeleton/distance, enemy HP and view-direction indicators.</li>\n      <li><strong>Loot ESP:</strong> highlight rare items/attachments; type filters.</li>\n      <li><strong>Radar/Minimap:</strong> compact radar with nearby threat hints.</li>\n    </ul>\n    \n    <h4>Movement</h4>\n    <ul>\n      <li><strong>Speed Mod (gentle):</strong> moderate sprint/movement boost.</li>\n      <li><strong>Fly / Air-move:</strong> precise air control for quick rotations (hotkey).</li>\n      <li><strong>Safe Landing:</strong> fall-damage protection from great heights.</li>\n    </ul>\n    \n    <h4>Loot & Utility</h4>\n    <ul>\n      <li><strong>Auto-Loot (tunable):</strong> prioritized pickup of rare items and ammo by list.</li>\n      <li><strong>Quick-Use:</strong> quick binds for heals/boosts, scope-preset switching.</li>\n      <li><strong>Inventory Helper:</strong> loot sorting, fast drop of unwanted items.</li>\n    </ul>\n    \n    <h4>Safety</h4>\n    <ul>\n      <li><strong>Profiles:</strong> separate configs for “legit”/training; one-click switching.</li>\n      <li><strong>Compatibility:</strong> aimed at local/test sessions; use responsibly.</li>\n    </ul>\n    "
+        },
+        "href": "#",
+        "downloadpath": "/access/game.zip"
+      }
+    ],
+    "tf2": [
+      {
+        "id": "tf2-1",
+        "image1": "/access/amalgam.png",
+        "image2": "/access/amalgam-2.png",
+        "image3": "/access/amalgam-3.png",
+        "title": "Amalgam",
+        "description": {
+          "ru": "\n    <p><strong>Amalgam — мод-пак для Team Fortress 2</strong></p>\n    <p>Структура как в меню слева: Aimbot, Visuals, Misc, Logs, Settings. Коротко — самое нужное.</p>\n    \n    <h4>Aimbot</h4>\n    <ul>\n      <li><strong>Legit Assist:</strong> мягкая помощь при наведении с настройкой силы и FOV.</li>\n      <li><strong>Trigger:</strong> авто-выстрел при наведении на цель (по клавише).</li>\n      <li><strong>Smoothing:</strong> сглаживание движения прицела, анти-рывки.</li>\n    </ul>\n    \n    <h4>Visuals</h4>\n    <ul>\n      <li><strong>ESP:</strong> боксы/кости/линии, здоровье и дистанция, видимые через препятствия.</li>\n      <li><strong>Chams/Glow:</strong> подсветка союзников/противников, кастомные цвета.</li>\n      <li><strong>HUD tweaks:</strong> компактные индикаторы, минимальная перегрузка экрана.</li>\n    </ul>\n    \n    <h4>Misc</h4>\n    <ul>\n      <li><strong>Movement:</strong> bhop, авто-джамп, авто-страйф, ускорение.</li>\n      <li><strong>Queue/Automation:</strong> авто-принятие дропа, переключение профилей.</li>\n      <li><strong>Utility:</strong> быстрые бинды, сохранение меток/настроек.</li>\n    </ul>\n    \n    <h4>Logs</h4>\n    <ul>\n      <li><strong>Hit/Damage Log:</strong> попадания, урон, килл-фиды; экспорт при необходимости.</li>\n      <li><strong>Events:</strong> важные триггеры матча, таймкоды для разборов.</li>\n    </ul>\n    \n    <h4>Settings</h4>\n    <ul>\n      <li><strong>Profiles:</strong> пресеты под классы/режимы, горячее переключение.</li>\n      <li><strong>Keybinds:</strong> нажатия для aimbot/trigger/overlay.</li>\n      <li><strong>Safe Mode:</strong> аккуратные значения по умолчанию; используйте ответственно.</li>\n    </ul>\n    ",
+          "en": "\n    <p><strong>Amalgam — mod pack for Team Fortress 2</strong></p>\n    <p>Structure matches the left menu: Aimbot, Visuals, Misc, Logs, Settings. Short — the essentials.</p>\n    \n    <h4>Aimbot</h4>\n    <ul>\n      <li><strong>Legit Assist:</strong> subtle aim aid with configurable strength and FOV.</li>\n      <li><strong>Trigger:</strong> auto-shot when aiming at a target (hotkey).</li>\n      <li><strong>Smoothing:</strong> cursor smoothing to prevent jerky movements.</li>\n    </ul>\n    \n    <h4>Visuals</h4>\n    <ul>\n      <li><strong>ESP:</strong> boxes/bones/lines, health and distance, visible through obstacles.</li>\n      <li><strong>Chams/Glow:</strong> highlight teammates/enemies with custom colors.</li>\n      <li><strong>HUD tweaks:</strong> compact indicators to avoid screen clutter.</li>\n    </ul>\n    \n    <h4>Misc</h4>\n    <ul>\n      <li><strong>Movement:</strong> bhop, auto-jump, auto-strafe, speed boosts.</li>\n      <li><strong>Queue/Automation:</strong> auto-accept drops, profile switching.</li>\n      <li><strong>Utility:</strong> quick binds, save markers/settings.</li>\n    </ul>\n    \n    <h4>Logs</h4>\n    <ul>\n      <li><strong>Hit/Damage Log:</strong> hits, damage, kill feeds; exportable when needed.</li>\n      <li><strong>Events:</strong> important match triggers with timestamps for review.</li>\n    </ul>\n    \n    <h4>Settings</h4>\n    <ul>\n      <li><strong>Profiles:</strong> presets per class/mode, quick switching.</li>\n      <li><strong>Keybinds:</strong> bindings for aimbot/trigger/overlay.</li>\n      <li><strong>Safe Mode:</strong> conservative defaults; use responsibly.</li>\n    </ul>\n    "
+        },
+        "href": "#",
+        "downloadpath": "/access/game.zip"
+      }
+    ],
+    "samp": [
+      {
+        "id": "samp-1",
+        "image1": "/access/ultrahack.jpg",
+        "image2": "/access/ultrahack-2.png",
+        "image3": "/access/ultrahack-3.jpg",
+        "title": "Ultra Hack",
+        "description": {
+          "ru": "\n    <p><strong>Ultra Hack — расширенный мод для SAMP</strong></p>\n    <p>\n    Сбалансированный набор, оформленный по разделам: визуальные подсказки, боевой комфорт, перемещение, утилиты и совместимость. Подходит для локальных/тестовых серверов и личных экспериментов.\n    </p>\n    \n    <h4>Visual</h4>\n    <ul>\n      <li><strong>ESP/WallHack:</strong> аккуратная подсветка игроков и объектов для лучшего контроля ситуации.</li>\n      <li><strong>Overlay-подсказки:</strong> минимальные индикаторы статуса без перегруза экрана.</li>\n      <li><strong>Кастомизация HUD:</strong> компактный радар, читаемые шрифты, базовые темы.</li>\n    </ul>\n    \n    <h4>Combat</h4>\n    <ul>\n      <li><strong>Aim Assist (мягкий):</strong> помощь при наведении без резких рывков камеры.</li>\n      <li><strong>Trigger/Rapid:</strong> авто-выстрел по цели и ускоренная серия для некоторых видов оружия.</li>\n      <li><strong>Recoil Control:</strong> сглаживание отдачи и стабилизация прицела.</li>\n    </ul>\n    \n    <h4>Move</h4>\n    <ul>\n      <li><strong>SpeedHack (бережный):</strong> умеренное ускорение передвижения и действий.</li>\n      <li><strong>AirBrake / Fly:</strong> точный контроль в воздухе, быстрые перемещения по локации.</li>\n      <li><strong>Anti-Fall:</strong> защита от урона при падении; безопасные приземления.</li>\n    </ul>\n    \n    <h4>Utility</h4>\n    <ul>\n      <li><strong>Bind Hub:</strong> быстрые клавиши для команд (/me, /do, сервисные команды), профили под режимы.</li>\n      <li><strong>Метки и лог:</strong> сохранение точек на карте, журнал событий и авто-скриншоты для разборов.</li>\n      <li><strong>Preset Manager:</strong> набор пресетов (чувствительность, графика, интерфейс) с быстрым переключением.</li>\n    </ul>\n    \n    <h4>Safety & Compatibility</h4>\n    <ul>\n      <li><strong>Режим совместимости:</strong> ориентировано на типовые клиенты SA-MP 0.3.x; отключаемые модули.</li>\n      <li><strong>Ответственное использование:</strong> рекомендуется для частных/тестовых серверов и офлайн-кейсов.</li>\n    </ul>\n    \n    <h4>Установка</h4>\n    <ul>\n      <li><strong>Путь по умолчанию:</strong> <code>%USERPROFILE%/Documents/SAMP/</code> (папки <code>config/</code>, <code>binds/</code>, <code>logs/</code>, <code>screens/</code>).</li>\n      <li><strong>Запуск:</strong> через лаунчер сервера или клиент SA-MP; при необходимости укажите собственные пути.</li>\n    </ul>\n    ",
+          "en": "\n    <p><strong>Ultra Hack — an advanced mod for SAMP</strong></p>\n    <p>\n    A balanced kit organized into sections: visual cues, combat comfort, movement, utilities, and compatibility. Suited for local/test servers and personal experiments.\n    </p>\n    \n    <h4>Visual</h4>\n    <ul>\n      <li><strong>ESP/WallHack:</strong> neat highlighting of players and objects for better situational control.</li>\n      <li><strong>Overlay hints:</strong> minimal status indicators without screen clutter.</li>\n      <li><strong>HUD customization:</strong> compact radar, readable fonts, basic themes.</li>\n    </ul>\n    \n    <h4>Combat</h4>\n    <ul>\n      <li><strong>Aim Assist (gentle):</strong> aiming help without sudden camera jerks.</li>\n      <li><strong>Trigger/Rapid:</strong> auto-shot on target and faster bursts for some weapons.</li>\n      <li><strong>Recoil Control:</strong> recoil smoothing and sight stabilization.</li>\n    </ul>\n    \n    <h4>Move</h4>\n    <ul>\n      <li><strong>SpeedHack (conservative):</strong> moderate boost to movement and actions.</li>\n      <li><strong>AirBrake / Fly:</strong> precise air control, quick map traversal.</li>\n      <li><strong>Anti-Fall:</strong> fall-damage protection; safe landings.</li>\n    </ul>\n    \n    <h4>Utility</h4>\n    <ul>\n      <li><strong>Bind Hub:</strong> hotkeys for commands (/me, /do, service cmds), mode-based profiles.</li>\n      <li><strong>Markers & log:</strong> save map points, event journal and auto-screenshots for reviews.</li>\n      <li><strong>Preset Manager:</strong> presets (sensitivity, graphics, UI) with quick switching.</li>\n    </ul>\n    \n    <h4>Safety & Compatibility</h4>\n    <ul>\n      <li><strong>Compatibility mode:</strong> targeted at common SA-MP 0.3.x clients; toggleable modules.</li>\n      <li><strong>Responsible use:</strong> recommended for private/test servers and offline cases.</li>\n    </ul>\n    \n    <h4>Installation</h4>\n    <ul>\n      <li><strong>Default path:</strong> <code>%USERPROFILE%/Documents/SAMP/</code> (<code>config/</code>, <code>binds/</code>, <code>logs/</code>, <code>screens/</code> folders).</li>\n      <li><strong>Launch:</strong> via server launcher or SA-MP client; set custom paths if needed.</li>\n    </ul>\n    "
+        },
+        "href": "#",
+        "downloadpath": "/access/game.zip"
+      }
+    ]
+  },
+  "programs": [
+    {
+      "id": "prog-photoshop",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg",
+      "downloadpath": "/access/photoshop.zip"
+    },
+    {
+      "id": "prog-word",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Word_2013-2019_logo.svg",
+      "downloadpath": "/access/word.zip"
+    },
+    {
+      "id": "prog-chrome",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/768px-Google_Chrome_icon_%28February_2022%29.svg.png",
+      "downloadpath": "/access/chrome.zip"
+    },
+    {
+      "id": "prog-discord",
+      "img": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png",
+      "downloadpath": "/access/discord.zip"
+    },
+    {
+      "id": "prog-steam",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg",
+      "downloadpath": "/access/steam.zip"
+    },
+    {
+      "id": "prog-winrar",
+      "img": "https://img.icons8.com/?size=1200&id=13447&format=png",
+      "downloadpath": "/access/winrar.zip"
+    },
+    {
+      "id": "prog-obs",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/OBS_Studio_logo.png/1200px-OBS_Studio_logo.png",
+      "downloadpath": "/access/obs.zip"
+    },
+    {
+      "id": "prog-vscode",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg",
+      "downloadpath": "/access/vscode.zip"
+    },
+    {
+      "id": "prog-telegram",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg",
+      "downloadpath": "/access/telegram.zip"
+    },
+    {
+      "id": "prog-spotify",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+      "downloadpath": "/access/spotify.zip"
+    },
+    {
+      "id": "prog-premiere",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png",
+      "downloadpath": "/access/premiere.zip"
+    },
+    {
+      "id": "prog-brave",
+      "img": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/brave-browser-icon.png",
+      "downloadpath": "/access/brave.zip"
+    },
+    {
+      "id": "prog-firefox",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png",
+      "downloadpath": "/access/firefox.zip"
+    },
+    {
+      "id": "prog-opera",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Opera_GX_Icon.svg/512px-Opera_GX_Icon.svg.png",
+      "downloadpath": "/access/opera.zip"
+    },
+    {
+      "id": "prog-7zip",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/7ziplogo.svg/1200px-7ziplogo.svg.png",
+      "downloadpath": "/access/7zip.zip"
+    },
+    {
+      "id": "prog-blender",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg",
+      "downloadpath": "/access/blender.zip"
+    },
+    {
+      "id": "prog-epicgames",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Epic_Games_logo.svg/1764px-Epic_Games_logo.svg.png",
+      "downloadpath": "/access/epicgames.zip"
+    },
+    {
+      "id": "prog-figma",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg",
+      "downloadpath": "/access/figma.zip"
+    },
+    {
+      "id": "prog-canva",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Canva_Logo.svg/2560px-Canva_Logo.svg.png",
+      "downloadpath": "/access/canva.zip"
+    },
+    {
+      "id": "prog-ccleaner",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/5/51/CCleaner_logo.png",
+      "downloadpath": "/access/ccleaner.zip"
+    },
+    {
+      "id": "prog-avast",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/3/39/AVG_logo.png",
+      "downloadpath": "/access/avast.zip"
+    },
+    {
+      "id": "prog-bitdefender",
+      "img": "https://download.logo.wine/logo/Bitdefender/Bitdefender-Logo.wine.png",
+      "downloadpath": "/access/bitdefender.zip"
+    },
+    {
+      "id": "prog-malwarebytes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/db/Malwarebytes_logo_stacked_PMS2728.png",
+      "downloadpath": "/access/malwarebytes.zip"
+    }
+  ],
+  "gameIndex": [
+    {
+      "key": "cs2",
+      "img": "https://cdn2.steamgriddb.com/icon/e1bd06c3f8089e7552aa0552cb387c92/32/512x512.png",
+      "scale": 0.7
+    },
+    {
+      "key": "roblox",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Roblox_Corporation_2025_logo.svg/250px-Roblox_Corporation_2025_logo.svg.png",
+      "scale": 0.7
+    },
+    {
+      "key": "fortnite",
+      "img": "https://cdn2.steamgriddb.com/icon/7d3c92fe608388da63fa395ebe233316.png",
+      "scale": 1.1
+    },
+    {
+      "key": "genshin",
+      "img": "https://cdn2.steamgriddb.com/icon/ffbab8235ddc5c0290ecd6ceccc0a61a.png",
+      "scale": 0.7
+    },
+    {
+      "key": "zzz",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/92/Zenless_Zone_Zero_logo.png",
+      "scale": 0.65
+    },
+    {
+      "key": "rust",
+      "img": "https://cdn2.steamgriddb.com/icon/c291b01517f3e6797c774c306591cc32.png",
+      "scale": 0.7
+    },
+    {
+      "key": "valorant",
+      "img": "https://static.vecteezy.com/system/resources/thumbnails/022/636/384/small/valorant-logo-valorant-icon-transparent-free-png.png",
+      "scale": 1
+    },
+    {
+      "key": "pubg",
+      "img": "https://www.rw-designer.com/icon-image/21520-256x256x32.png",
+      "scale": 0.7
+    },
+    {
+      "key": "tf2",
+      "img": "https://cdn.worldvectorlogo.com/logos/team-fortress.svg",
+      "scale": 0.7
+    },
+    {
+      "key": "samp",
+      "img": "https://papik.pro/grafic/uploads/posts/2023-04/1681619882_papik-pro-p-samp-logotip-vektor-28.png",
+      "scale": 0.8
+    },
+    {
+      "key": "gta5",
+      "img": "https://static.vecteezy.com/system/resources/previews/027/127/540/non_2x/grand-theft-auto-gta-v-logo-grand-theft-auto-gta-v-icon-transparent-free-png.png",
+      "scale": 0.9
+    },
+    {
+      "key": "minecraft",
+      "img": "https://cdn.worldvectorlogo.com/logos/minecraft-1.svg",
+      "scale": 0.9
+    },
+    {
+      "key": "dota2",
+      "img": "https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/dota-2-icon.png",
+      "scale": 0.9
+    }
+  ],
+  "main": {
+    "ru": {
+      "eyebrow": "Официальные партнёрства · Проверено нами",
+      "title": "Мы собрали все твои любимые читы и программы\nв одном месте",
+      "subtitle": "Всё, что нужно — без вирусов, без мусора и с полным набором функций. Мы единственные, кто вручную проверяет каждую сборку перед публикацией. Партнёримся с авторами, распространяем их ПО на законных основаниях и поддерживаем стабильность.",
+      "ctaTelegram": "Открыть канал в Telegram",
+      "ctaAgreement": "Соглашение",
+      "featuresTitle": "Почему у нас удобно",
+      "featuresSubtitle": "Безопасность, мгновенный доступ, 24/7 поддержка и быстрые обновления.",
+      "highlight": "Абсолютно всё бесплатно",
+      "cards": [
+        {
+          "title": "Безопасность прежде всего",
+          "text": "Мы делаем всё возможное, чтобы защитить ваши аккаунты и обходить античит‑системы. Каждая сборка проходит ручную проверку перед публикацией."
+        },
+        {
+          "title": "Мгновенный доступ",
+          "text": "Никаких длинных форм. Скачивание и запуск — в пару кликов. Все способы получения собраны на одной странице."
+        },
+        {
+          "title": "Круглосуточная поддержка",
+          "text": "Мы на связи 24/7: Telegram/Discord. Отвечаем быстро, помогаем настраивать и подбираем оптимальные пресеты."
+        },
+        {
+          "title": "Легко использовать",
+          "text": "Установка занимает минуты и не требует лишних действий — всё максимально автоматизировано."
+        },
+        {
+          "title": "Быстрые обновления",
+          "text": "Если что‑то меняется в игре — мы первыми выкатываем патчи. Обновления прилетают оперативно и не ломают вашу конфигурацию."
+        },
+        {
+          "title": "Абсолютно бесплатно",
+          "text": "Никаких скрытых платежей. Все инструменты доступны без оплаты. Хотите поддержать — используйте донат, но это необязательно."
+        }
+      ]
+    },
+    "en": {
+      "eyebrow": "Official partnerships · Verified by us",
+      "title": "We collected all your favorite cheats and apps\nin one place",
+      "subtitle": "Everything you need — no viruses, no junk, full functionality. We manually verify every build before publishing. We partner with creators, distribute their software legally, and keep things stable.",
+      "ctaTelegram": "Open Telegram channel",
+      "ctaAgreement": "Agreement",
+      "featuresTitle": "Why it’s convenient with us",
+      "featuresSubtitle": "Security, instant access, 24/7 support, and fast updates.",
+      "highlight": "Absolutely free for everyone",
+      "cards": [
+        {
+          "title": "Security first",
+          "text": "We protect your accounts and bypass anti‑cheat systems. Every build is manually reviewed before release."
+        },
+        {
+          "title": "Instant access",
+          "text": "No long forms. Download and run in a couple of clicks. All methods are on a single page."
+        },
+        {
+          "title": "24/7 support",
+          "text": "We’re available around the clock via Telegram/Discord. Fast replies, setup help, and optimal presets."
+        },
+        {
+          "title": "Easy to use",
+          "text": "Setup takes minutes and requires no extra steps — everything is streamlined."
+        },
+        {
+          "title": "Fast updates",
+          "text": "When games change, we’re first to ship patches. Updates arrive quickly without breaking your config."
+        },
+        {
+          "title": "Absolutely free",
+          "text": "No hidden fees. All tools are free to use. Donations are welcome but optional."
+        }
+      ]
+    }
+  },
+  "contacts": {
+    "ru": {
+      "title": "Контакты",
+      "tagline": "Мы всегда на связи",
+      "text": "Свяжитесь через Telegram\nОтвечаем в течение нескольких часов.",
+      "write": "Написать нам",
+      "channel": "Наш канал",
+      "faqTitle": "Часто задаваемые вопросы",
+      "faq": [
+        {
+          "q": "Как быстро вы отвечаете?",
+          "a": "Обычно в течение нескольких часов."
+        },
+        {
+          "q": "Можно ли рекламировать свой продукт?",
+          "a": "Да, мы открыты к сотрудничеству. Напишите нам в Telegram."
+        },
+        {
+          "q": "Можно предложить идею или фичу?",
+          "a": "Конечно! Мы читаем всё и часто добавляем лучшие идеи."
+        },
+        {
+          "q": "Вы отвечаете по ночам?",
+          "a": "Иногда да, но официальное окно — дневное время по будням."
+        },
+        {
+          "q": "Можно прислать мем?",
+          "a": "Обязательно. Лучшие попадают в наш канал 😎"
+        }
+      ],
+      "partnerTitle": "Партнёрство и реклама",
+      "partnerText": "Мы предлагаем возможности сотрудничества и продвижения приложений. Свяжитесь с нами для обсуждения условий.",
+      "collabTitle": "С кем мы сотрудничаем",
+      "quoteText": "Если удобнее — пишите на почту, отвечаем так же быстро."
+    },
+    "en": {
+      "title": "Contacts",
+      "tagline": "We are always in touch",
+      "text": "Reach us on Telegram\nWe reply within a few hours.",
+      "write": "Message us",
+      "channel": "Our channel",
+      "faqTitle": "Frequently Asked Questions",
+      "faq": [
+        {
+          "q": "How fast do you respond?",
+          "a": "Usually within a few hours."
+        },
+        {
+          "q": "Can I advertise my product?",
+          "a": "Yes — we’re open to collaboration. DM us on Telegram."
+        },
+        {
+          "q": "Can I suggest a feature or idea?",
+          "a": "Absolutely. We read everything and often ship the best ideas."
+        },
+        {
+          "q": "Do you reply at night?",
+          "a": "Sometimes, but our official window is daytime on business days."
+        },
+        {
+          "q": "Can I send a meme?",
+          "a": "Please do. The best ones make it to our channel 😎"
+        }
+      ],
+      "partnerTitle": "Partnership and Advertising",
+      "partnerText": "We offer opportunities for collaboration and app promotion. Contact us to discuss terms.",
+      "collabTitle": "Our Partners",
+      "quoteText": "If it’s more convenient — write to our email, we reply just as quickly."
+    }
+  }
+}
